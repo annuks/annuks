@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Annu Kumar Singh</h1>
-<h3 align="center">A passionate Full stack developer looking forward to serve to the best of my abilities the organization I am going to associated with, and make it a rule to better my best with every delivery through hard work, dedication and organizational growth.</h3>
+<h3 align="center">A Full stack developer looking forward to serve to the best of my abilities the organization I am going to associated with, and make it a rule to better my best with every delivery through hard work, dedication and organizational growth.</h3>
 
 - 🔭 I’m currently working on ****
 
